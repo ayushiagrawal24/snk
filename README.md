@@ -32,7 +32,7 @@ Available as github action. It can automatically generate a new image each day. 
 
 ## Usage
 
-### **github action**
+
 
 ```yaml
 - uses: Platane/snk@v3
